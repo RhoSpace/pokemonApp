@@ -1,15 +1,30 @@
 {
   "files": {
-    "main.css": "/pokemonApp/static/css/main.384bdcea.css",
-    "main.js": "/pokemonApp/static/js/main.78b64e66.js",
+    "main.css": "/pokemonApp/static/css/main.025f3af3.css",
+    "main.js": "/pokemonApp/static/js/main.0cd28b94.js",
     "static/js/787.9294e720.chunk.js": "/pokemonApp/static/js/787.9294e720.chunk.js",
+    "static/media/medallaArcoiris.png": "/pokemonApp/static/media/medallaArcoiris.f9c72e91a617b1380740.png",
+    "static/media/medallaTrueno.png": "/pokemonApp/static/media/medallaTrueno.8c22cd48f6113bee628a.png",
+    "static/media/medallaPantano.png": "/pokemonApp/static/media/medallaPantano.15e231fa33e5afc9707f.png",
+    "static/media/medallaVolcan.png": "/pokemonApp/static/media/medallaVolcan.418736e592892ae0ef56.png",
+    "static/media/medallaRoca.png": "/pokemonApp/static/media/medallaRoca.b4e8edb2d4fe13fb36d6.png",
+    "static/media/medallaAlma.png": "/pokemonApp/static/media/medallaAlma.efdcfcba8d6886a589ea.png",
+    "static/media/medallaTierra.png": "/pokemonApp/static/media/medallaTierra.77557870b03186c50162.png",
+    "static/media/medallaCascada.png": "/pokemonApp/static/media/medallaCascada.d904b57aeee4bcc08a1a.png",
+    "static/media/medallaArcoirisOff.png": "/pokemonApp/static/media/medallaArcoirisOff.2f2b7ebeca16f99fba32.png",
+    "static/media/medallaTruenoOff.png": "/pokemonApp/static/media/medallaTruenoOff.4511c774675f2398bbed.png",
+    "static/media/medallaVolcanOff.png": "/pokemonApp/static/media/medallaVolcanOff.cb6199e277a6f4746a48.png",
+    "static/media/medallaRocaOff.png": "/pokemonApp/static/media/medallaRocaOff.68acda2fc8fe60d81358.png",
+    "static/media/medallaPantanoOff.png": "/pokemonApp/static/media/medallaPantanoOff.1a72057e21632a323ff9.png",
+    "static/media/medallaAlmaOff.png": "/pokemonApp/static/media/medallaAlmaOff.3a4464236e785cf7b8d6.png",
+    "static/media/medallaTierraOff.png": "/pokemonApp/static/media/medallaTierraOff.e3a3ba7e72e9ab238b1b.png",
     "index.html": "/pokemonApp/index.html",
-    "main.384bdcea.css.map": "/pokemonApp/static/css/main.384bdcea.css.map",
-    "main.78b64e66.js.map": "/pokemonApp/static/js/main.78b64e66.js.map",
+    "main.025f3af3.css.map": "/pokemonApp/static/css/main.025f3af3.css.map",
+    "main.0cd28b94.js.map": "/pokemonApp/static/js/main.0cd28b94.js.map",
     "787.9294e720.chunk.js.map": "/pokemonApp/static/js/787.9294e720.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.384bdcea.css",
-    "static/js/main.78b64e66.js"
+    "static/css/main.025f3af3.css",
+    "static/js/main.0cd28b94.js"
   ]
 }
