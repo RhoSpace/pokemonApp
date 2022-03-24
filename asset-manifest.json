@@ -1,8 +1,11 @@
 {
   "files": {
-    "main.css": "/pokemonApp/static/css/main.025f3af3.css",
-    "main.js": "/pokemonApp/static/js/main.0cd28b94.js",
+    "main.css": "/pokemonApp/static/css/main.1ea346fb.css",
+    "main.js": "/pokemonApp/static/js/main.20959de0.js",
     "static/js/787.9294e720.chunk.js": "/pokemonApp/static/js/787.9294e720.chunk.js",
+    "static/media/bg.jpg": "/pokemonApp/static/media/bg.148d7a3010d3d0243409.jpg",
+    "static/media/background.jpg": "/pokemonApp/static/media/background.d28fa47f8a23d09c117d.jpg",
+    "static/media/stadium.png": "/pokemonApp/static/media/stadium.b7a5f090046881b15f0e.png",
     "static/media/medallaArcoiris.png": "/pokemonApp/static/media/medallaArcoiris.f9c72e91a617b1380740.png",
     "static/media/medallaTrueno.png": "/pokemonApp/static/media/medallaTrueno.8c22cd48f6113bee628a.png",
     "static/media/medallaPantano.png": "/pokemonApp/static/media/medallaPantano.15e231fa33e5afc9707f.png",
@@ -19,12 +22,12 @@
     "static/media/medallaAlmaOff.png": "/pokemonApp/static/media/medallaAlmaOff.3a4464236e785cf7b8d6.png",
     "static/media/medallaTierraOff.png": "/pokemonApp/static/media/medallaTierraOff.e3a3ba7e72e9ab238b1b.png",
     "index.html": "/pokemonApp/index.html",
-    "main.025f3af3.css.map": "/pokemonApp/static/css/main.025f3af3.css.map",
-    "main.0cd28b94.js.map": "/pokemonApp/static/js/main.0cd28b94.js.map",
+    "main.1ea346fb.css.map": "/pokemonApp/static/css/main.1ea346fb.css.map",
+    "main.20959de0.js.map": "/pokemonApp/static/js/main.20959de0.js.map",
     "787.9294e720.chunk.js.map": "/pokemonApp/static/js/787.9294e720.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.025f3af3.css",
-    "static/js/main.0cd28b94.js"
+    "static/css/main.1ea346fb.css",
+    "static/js/main.20959de0.js"
   ]
 }
