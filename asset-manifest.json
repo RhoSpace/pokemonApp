@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/pokemonApp/static/css/main.45e92eb2.css",
-    "main.js": "/pokemonApp/static/js/main.17c79329.js",
+    "main.css": "/pokemonApp/static/css/main.597822da.css",
+    "main.js": "/pokemonApp/static/js/main.c6f05db6.js",
     "static/media/ruler.pdf": "/pokemonApp/static/media/ruler.b148c82eb167c339b334.pdf",
     "static/media/bg.jpg": "/pokemonApp/static/media/bg.148d7a3010d3d0243409.jpg",
     "pdf.worker.js": "/pokemonApp/e7e915313973ba1d49f9bb2a1998626e.js",
@@ -23,11 +23,11 @@
     "static/media/medallaAlmaOff.png": "/pokemonApp/static/media/medallaAlmaOff.3a4464236e785cf7b8d6.png",
     "static/media/medallaTierraOff.png": "/pokemonApp/static/media/medallaTierraOff.e3a3ba7e72e9ab238b1b.png",
     "index.html": "/pokemonApp/index.html",
-    "main.45e92eb2.css.map": "/pokemonApp/static/css/main.45e92eb2.css.map",
-    "main.17c79329.js.map": "/pokemonApp/static/js/main.17c79329.js.map"
+    "main.597822da.css.map": "/pokemonApp/static/css/main.597822da.css.map",
+    "main.c6f05db6.js.map": "/pokemonApp/static/js/main.c6f05db6.js.map"
   },
   "entrypoints": [
-    "static/css/main.45e92eb2.css",
-    "static/js/main.17c79329.js"
+    "static/css/main.597822da.css",
+    "static/js/main.c6f05db6.js"
   ]
 }
